@@ -46,7 +46,7 @@ This User's Guide exists so people can get to know me on their own time.  Here I
 
 **Style over substance.**  Engineering as a discipline requires you prove your ideas actually work in practice.  
 
-**Evasive answers.**  Occasionally, we are asked to answer difficult or embarrassing questions.  Sometimes we might not know the answers to these questions.  Sometimes the answers reveal mistakes, failures, or otherwise bad facts.  The best thing to do, in my experience, is to be forthcoming with an honest reply that responds directly to the question asked.  It shows responsibility and humility. On the contrary, I find spin, evasion, and misdirection infuriating.
+**Evasive answers.**  Occasionally, we are asked to answer difficult or embarrassing questions.  Sometimes we might not know the answers to these questions.  Sometimes the answers reveal mistakes, failures, or otherwise bad facts.  The best thing to do, in my experience, is to be forthcoming with an honest reply that responds directly to the question asked.  It shows responsibility and humility.  On the other hand, spin, evasion, and misdirection infuriates me.
 
 ## How To Help Me
 
