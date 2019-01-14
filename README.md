@@ -36,8 +36,6 @@ This User's Guide exists so people can get to know me on their own time.  Here I
 
 **I am sometimes too cynical and/or skeptical.**  Cynicism and skepticism are the "flip side" of wit.  Optimism is the cure for these.
 
-**Evasive answers.**  Occasionally, we are asked to answer difficult or embarrassing questions.  Sometimes we might not know the answers to these questions.  Sometimes the answers reveal mistakes, failures, or otherwise bad facts.  The best thing to do, in my experience, is to be forthcoming with an honest reply that responds directly to the question asked.  It shows responsibility and humility. Evasion, spin, and mealy-mouthedness infuriates me.
-
 ## Pet Peeves
 
 **Passive-aggressiveness**.  I'm going to screw up sometimes, and maybe even unintentionally make you upset or angry.  This is never my intent. But please, don't be passive-aggressive if this happens: don't bury it or commiserate with others.  When we do, it always comes back to haunt us in some way.  And *I can't fix what I don't know about.*  If you disagree with me, or if you feel like I've wronged you in some way, engage me and speak up!  I'll listen respectfully and try to make our conversation as productive as I can.
@@ -47,6 +45,8 @@ This User's Guide exists so people can get to know me on their own time.  Here I
 **Characterization over qualification/"throwing shade."**  There are few truly useless products in our problem domains.  Every product out there, whether it be an operating system, a database, a programming language, a cloud offering, or a container orchestrator, has benefits and drawbacks.  Our job is to find the best solution for a problem, not to sit on an ivory tower and cast judgment, dismissing the efforts of our fellow engineers.
 
 **Style over substance.**  Engineering as a discipline requires you prove your ideas actually work in practice.  
+
+**Evasive answers.**  Occasionally, we are asked to answer difficult or embarrassing questions.  Sometimes we might not know the answers to these questions.  Sometimes the answers reveal mistakes, failures, or otherwise bad facts.  The best thing to do, in my experience, is to be forthcoming with an honest reply that responds directly to the question asked.  It shows responsibility and humility. Evasion, spin, and mealy-mouthedness infuriates me.
 
 ## How To Help Me
 
